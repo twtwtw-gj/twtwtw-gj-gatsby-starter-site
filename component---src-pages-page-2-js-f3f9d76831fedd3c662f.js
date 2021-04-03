@@ -1,0 +1,2 @@
+(self.webpackChunktwtwtw_gj_gatsby_starter_site=self.webpackChunktwtwtw_gj_gatsby_starter_site||[]).push([[617],{9863:function(t,e,a){"use strict";a.r(e);var n=a(7294),r=a(5444),l=a(5127),s=a(3751);e.default=function(){return n.createElement(l.Z,null,n.createElement(s.Z,{title:"Page two"}),n.createElement("p",null,"こちらは単体記事のページである。"),n.createElement(r.Link,{to:"/"},"Go back to the homepage"))}}}]);
+//# sourceMappingURL=component---src-pages-page-2-js-f3f9d76831fedd3c662f.js.map
