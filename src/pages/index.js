@@ -8,9 +8,9 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
+    <h1>こんにちは</h1>
+    <p>これはtwtwtw-gjが作成したGitHub Pages Gatsby.jsのページです。</p>
+    <p><a href="github.com/twtwtw-gj">GitHub URL</a></p>
     <StaticImage
       src="../images/gatsby-astronaut.png"
       width={300}
@@ -20,8 +20,7 @@ const IndexPage = () => (
       style={{ marginBottom: `1.45rem` }}
     />
     <p>
-      <Link to="/page-2/">Go to page 2</Link> <br />
-      <Link to="/using-typescript/">Go to "Using TypeScript"</Link>
+      <Link to="/page-2/">単体ページへ行く</Link> <br />
     </p>
   </Layout>
 )
